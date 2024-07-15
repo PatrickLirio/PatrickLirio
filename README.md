@@ -25,6 +25,7 @@
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=PatrickLirio&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickLirio&theme=vue-dark&hide_border=false" /></p>
 <!-- https://github-readme-stats.vercel.app/api?username=PatrickLirio&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true
 https://github-readme-streak-stats.herokuapp.com/?user=PatrickLirio&theme=vue-dark&hide_border=false
