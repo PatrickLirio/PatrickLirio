@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/patrick benedict lirio" target="blank"><img align="center"  alt="patrick benedict lirio" height="30" width="40" /></a>
 <a href="https://fb.com/patrick lirio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="patrick lirio" height="30" width="40" /></a>
 <a href="https://discord.gg/benedict6028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="benedict6028" height="30" width="40" /></a>
 </p>
