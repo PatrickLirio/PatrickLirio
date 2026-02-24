@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Patrick Lirio</h1>
 <h3 align="center">Former Junior Developer from Philippines</h3>
 <h3 align="center">Currently a Software Engineer</h3>
-<img align="right" alt="Coding" height="200" width="200" src="https://r2.erweima.ai/imgcompressed/img/compressed_1ece74076a54359f75f5f6d1ccd8dfca.webp"/>
+<!-- <img align="right" alt="Coding" height="200" width="200" src="https://r2.erweima.ai/imgcompressed/img/compressed_1ece74076a54359f75f5f6d1ccd8dfca.webp"/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PatrickLirio&label=Profile%20views&color=0e75b6&style=flat" alt="patricklirio" /> </p>
 
-- 🌱 I’m currently learning **.Net, C#**
+- 🌱 I’m currently learning **.Net, C#, Angular**
 
 - 📫 How to reach me **pbenedict.lirio@gmail.com**
 
